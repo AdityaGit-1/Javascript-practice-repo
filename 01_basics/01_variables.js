@@ -12,5 +12,6 @@ accountCity = "Pune"
 console.log(accountId);
 console.table([accountId , accountEmail , accountPassword , accountCity]);
 
-// Avoid using 'var' for variables to avoid block scope and functional scope issue
-
+/* Avoid using 'var' for variables 
+ to avoid block scope and functional scope issue
+*/
